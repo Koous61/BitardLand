@@ -1,0 +1,60 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     2297 MB
+    Driver:   21.19.142.32768
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Bitard\2DPlatformer\123_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Bitard\2DPlatformer\123_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Bitard\2DPlatformer\123_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Bitard\2DPlatformer\123_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Bitard\2DPlatformer\123_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Bitard\2DPlatformer\123_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Bitard\2DPlatformer\123_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Bitard\2DPlatformer\123_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.235 seconds
+Platform assembly: E:\Bitard\2DPlatformer\123_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Bitard\2DPlatformer\123_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.655852 ms
+Heart (0) (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Heart (1) (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Heart (2) (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Heart (3) (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Heart (4) (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1004 -> priority: 1 
+  Thread -> id: 1ddc -> priority: 1 
